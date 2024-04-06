@@ -2,10 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. 
-Multidisciplinary Scientist, PhD.
-
-CIRAD, UPR AIDA, F-34398 Montpellier, France.
+subtitle: <a href='#'>Affiliations</a>. Multidisciplinary Scientist, PhD. - CIRAD, UPR AIDA, F-34398 Montpellier, France.
 
 profile:
   align: right
