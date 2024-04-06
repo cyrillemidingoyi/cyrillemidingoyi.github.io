@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Multidisciplinary Scientist, PhD. - CIRA
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ahmed.PNG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>+33 (0) 4 67 61 55 00</p>
