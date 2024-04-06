@@ -37,5 +37,5 @@ RUN bundle install --no-cache
 EXPOSE 8080
 
 COPY bin/entry_point.sh /tmp/entry_point.sh
-
+RUN ls /tmp
 CMD ["/tmp/entry_point.sh"]
