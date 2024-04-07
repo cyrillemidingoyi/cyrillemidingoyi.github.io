@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Integration of APSIM Platform in Crop2ML: Work visit of APSIM developers in Montpellier. :sparkles: :smile:
